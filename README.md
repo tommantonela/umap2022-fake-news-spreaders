@@ -6,7 +6,7 @@ Even though the Internet and social media are usually safe and enjoyable, commun
 
 The overall architecture of the proposed model is schematized in the following figure. To model the heterogeneous nature of social media, the shared content, and the involved participants, user representation is divided into three components: user/tweet features, social interactions, and tweet propagation trees.
 
-![Architecture](https://github.com/tommantonela/umap2022-fake-news-spreaders/main/architecture.png)
+![Architecture](https://github.com/tommantonela/umap2022-fake-news-spreaders/blob/main/main/architecture.png)
 
 ## Data
 
